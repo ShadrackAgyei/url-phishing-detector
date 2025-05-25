@@ -14,7 +14,7 @@ build/
 *.egg-info/
 
 # Model files (optional, comment out if you want to include them)
-*.joblib
+# *.joblib
 
 # IDE specific files
 .vscode/
